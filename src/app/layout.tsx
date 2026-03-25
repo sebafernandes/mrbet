@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/logomrbet.ico",
   },
-  description: "Mr Bet es una plataforma de apuestas online que te permite jugar a tus juegos favoritos de forma segura y facil.",
+  description: "Somos una plataforma que conecta a los usuarios de casinos legales con beneficios exclusivos. Desde acá podés registrarte según tu provincia y acceder a descuentos, promociones y experiencias pensadas para nuestra comunidad.",
 };
 
 export const viewport: Viewport = {
